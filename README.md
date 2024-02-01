@@ -1,3 +1,5 @@
+<h1>Project Details</h1>
+
 MERN app project named Book Town. In below video we can be able to see how it works and Book town is bookstore web which helps for reading, uploading and editing books when we signup. Books are fetched from my MongoDB database and authentications can be maintained on my firebase account.
 
 The MERN Book Store App is a web application that provides a user-friendly platform for managing and editing a library of books. Here's a detailed description of its key features and technologies:
